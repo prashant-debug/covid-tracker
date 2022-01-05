@@ -1,4 +1,4 @@
-# covid19-tracker-rajat
+# covid19-tracker
 Covid tracker app is a web-which gives a visualize report of covid cases around the world.
 We used React for creating this app \
 Number of modules are used - \
